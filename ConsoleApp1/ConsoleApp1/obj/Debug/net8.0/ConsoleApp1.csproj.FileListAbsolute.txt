@@ -40,3 +40,4 @@ C:\Users\kabas\OneDrive\Рабочий стол\ЛР1\ConsoleApp1\ConsoleApp1\ob
 C:\Users\kabas\OneDrive\Рабочий стол\ЛР1\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
 C:\Users\kabas\OneDrive\Рабочий стол\ЛР1\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
 C:\Users\kabas\OneDrive\Рабочий стол\ЛР1\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:\Users\kabas\OneDrive\Рабочий стол\ЛР1\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
